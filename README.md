@@ -11,4 +11,4 @@ This program is an animated AI ASCII chatbot that adminasters likert scale quest
 ## Installation
 1. Clone the repository:
 
-   git clone https://github.com/CalebMGillisCSU/HCI---AI-CHatbot-.git
+   git clone https://github.com/CalebMGillisCSU/HCI-AI-Chatbot.git
