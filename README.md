@@ -12,3 +12,7 @@ This program is an animated AI ASCII chatbot that adminasters likert scale quest
 1. Clone the repository:
 
    git clone https://github.com/CalebMGillisCSU/HCI-AI-Chatbot.git
+
+## Running Program
+
+To run this program simply navigate to the directory it is downloaded in and run: java HCI_Chatbot.java
